@@ -32,5 +32,4 @@ jobs:
     environment:
       name: production
       reviewers:
-        - reviewer3
-        - reviewer4
+        - Adeelku
