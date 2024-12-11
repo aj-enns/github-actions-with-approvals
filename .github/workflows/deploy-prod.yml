@@ -30,6 +30,5 @@ jobs:
         publish-profile: ${{ secrets.AZURE_FUNCTIONAPP_PUBLISH_PROFILE }}
 
     environment:
-      name: production
-      reviewers:
-        - Adeelku
+      name: Prod
+
