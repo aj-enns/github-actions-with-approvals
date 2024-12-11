@@ -24,3 +24,18 @@ The deployment to the Production environment is triggered manually using the `wo
 
 - UAT Approvers: A set of reviewers who must approve the deployment to the UAT environment.
 - Production Approvers: A different set of reviewers who must approve the deployment to the Production environment.
+
+### to Setup approvers
+Navigate to your repository on GitHub.
+Go to the "Settings" tab.
+In the left sidebar, click on "Environments".
+Create a new environment (e.g., uat or production) if it doesn't already exist.
+Configure the environment:
+Click on the environment name.
+Under "Deployment protection rules", add the required reviewers.
+For example, to set up the uat environment with reviewers:
+
+Click "New environment" and name it uat.
+Click on the uat environment.
+Under "Deployment protection rules", click "Add rule".
+Select "Required reviewers" and add reviewer1 and reviewer2.
