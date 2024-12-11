@@ -24,7 +24,9 @@ The deployment to the Production environment is triggered manually using the `wo
 
 - UAT Approvers: A set of reviewers who must approve the deployment to the UAT environment.
 - Production Approvers: A different set of reviewers who must approve the deployment to the Production environment.
-
+First add the users as contributors:
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/9e85a01c-c8f9-4aed-ae98-f2bc44b2a253" />
+  Then in settings -> Enivornment you can add approvers
 - <img width="930" alt="image" src="https://github.com/user-attachments/assets/3bf38a0a-df07-4516-beb8-beec1ecbb9a9" />
 
 
