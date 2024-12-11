@@ -32,5 +32,4 @@ jobs:
     environment:
       name: uat
       reviewers:
-        - reviewer1
-        - reviewer2
+        - Goney4y
